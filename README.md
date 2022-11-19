@@ -16,5 +16,5 @@
 | [Quantifying and Mitigating Privacy Risks of Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3460120.3484571) | Privacy+CL  | CCS '21                    | Null                                          |
 | [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://www.aaai.org/AAAI22Papers/AAAI-4599.HeC.pdf) | Fed+GNN     | AAAI '22                   | Null                                          |
 | [FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation](https://arxiv.org/abs/2204.09850) | Fed+CL      | arxiv 22                   | Null                                          |
-|                                                              |             |                            |                                               |
+|   test                                                           |             |                            |                                               |
 
