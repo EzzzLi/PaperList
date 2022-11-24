@@ -4,7 +4,7 @@
 
 | Name                                                         | Method      | Year                       | Code                                          |
 | ------------------------------------------------------------ | ----------- | -------------------------- | --------------------------------------------- |
-| [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531937) | GCL         | SIGIR '22                  | [github](https://github.com/Coder-Yu/QRec.)   |
+| [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531937) | GCL+RC       | SIGIR '22                  | [github](https://github.com/Coder-Yu/QRec.)   |
 | [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/abs/10.1145/3511808.3557668) | Fed+GNN+RC  | CIKM '22                   | Null                                          |
 | [FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs](https://arxiv.org/abs/2208.13685) | Fed+GNN     | arxiv 22                   | [github](https://github.com/FedEgo/FedEgo)    |
 | [Graph Contrastive Learning with Augmentations](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html) | GCL         | NeurIPS '20                | [github](https://github.com/Shen-Lab/GraphCL) |
